@@ -1,6 +1,6 @@
 import React from 'react';
 import { Network, BarChart3 } from 'lucide-react';
-import IndiaMap from '../assets/images/IndiaMap.jpeg';
+import IndiaMap from '../assets/images/indiamap.jpeg';
 
 const GrowthEngine = () => {
   return (
